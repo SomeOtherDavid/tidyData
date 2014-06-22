@@ -1,4 +1,4 @@
-_analysis.R
+# run_analysis.R
 # Data License:   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 #         ========
 #         Use of this dataset in publications must be acknowledged by referencing the following 
