@@ -19,7 +19,8 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-
+#Processing
+(see Codebook for detail)
 Using run_analysis.R:
 
 Original dataset was divided into a TRAIN set and a TEST set.  These datasets were combined.  Variable observations reported as mean or standard deviation were retained.  The data was tranformed into two files:  
